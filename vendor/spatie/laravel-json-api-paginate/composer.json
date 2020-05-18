@@ -1,0 +1,49 @@
+{
+    "name": "spatie/laravel-json-api-paginate",
+    "description": "A paginator that plays nice with the JSON API spec",
+    "keywords": [
+        "spatie",
+        "laravel-json-api-paginate"
+    ],
+    "homepage": "https://github.com/spatie/laravel-json-api-paginate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Freek Van der Herten",
+            "email": "freek@spatie.be",
+            "homepage": "https://spatie.be",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "illuminate/support": "~5.4.17|~5.5.0|~5.6.0|~5.7.0|~5.8.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "~3.4.7|~3.5.0|~3.6.0|~3.7.0|~3.8.0",
+        "phpunit/phpunit": "^6.3|^7.0|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spatie\\JsonApiPaginate\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Spatie\\JsonApiPaginate\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Spatie\\JsonApiPaginate\\JsonApiPaginateServiceProvider"
+            ]
+        }
+    }
+}

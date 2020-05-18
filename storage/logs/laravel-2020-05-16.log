@@ -1,0 +1,16 @@
+[2020-05-16 09:06:06] local.ERROR: There are no commands defined in the "cache:" namespace.
+
+Did you mean this?
+    cache {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"cache:\" namespace.
+
+Did you mean this?
+    cache at C:\\wamp64\\www\\job_portal\\vendor\\symfony\\console\\Application.php:597)
+[stacktrace]
+#0 C:\\wamp64\\www\\job_portal\\vendor\\symfony\\console\\Application.php(650): Symfony\\Component\\Console\\Application->findNamespace('cache:')
+#1 C:\\wamp64\\www\\job_portal\\vendor\\symfony\\console\\Application.php(235): Symfony\\Component\\Console\\Application->find('cache::clear')
+#2 C:\\wamp64\\www\\job_portal\\vendor\\symfony\\console\\Application.php(147): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\wamp64\\www\\job_portal\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(89): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\wamp64\\www\\job_portal\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(122): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\wamp64\\www\\job_portal\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 

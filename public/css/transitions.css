@@ -1,0 +1,73 @@
+*:after,
+*:before,
+p a,
+a,
+.wt-socialicons li a,
+.wt-roundicontext,
+.wt-roundicontext .wt-usericonholder,
+.sub-menu,
+.mega-menu,
+.wt-article,
+.wt-article figure img,
+.wt-speakerimg img,
+.wt-categoryslidercontent,
+.wt-filtertag li a i,
+.wt-userlistinghold,
+.wt-companysdetails,
+.wt-companysdetails .wt-companysimg img,
+.wt-comfollowers ul li,
+.wt-comfollowers ul li a span,
+.wt-comfollowers ul li a span img,
+.wt-articlesuser .wt-particlehold figure img,
+.wt-project figure img,
+.wt-usernav,
+.wt-btn,
+.wt-particlehold figure img,
+.wt-main,
+.wt-offersmessages .wt-ad,
+.wt-openmenu .wt-usersidebar .wt-companysinfo .wt-title,
+.wt-openmenu .wt-usersidebar .wt-companysinfo .wt-btnarea,
+.wt-iconbox i,
+.wt-tabstitle li,
+.wt-tablecategories tr,
+.wt-designimg input[type=radio]+ label img,
+.wt-designimg input[type=radio]+ label i,
+.wt-navigation > ul > li > .sub-menu > li.menu-item-has-children .sub-menu li,
+.wt-navigation > ul > li > .sub-menu > li,
+.chosen-container-multi .chosen-choices li.search-choice,
+.wt-dateandmsg span:nth-child(2),
+.wt-posteditem,
+.wt-slidernav .wt-prev,
+.wt-slidernav .wt-next,
+.wt-btnmenutoggle,
+.wt-skilldel span,
+.wt-articles,
+.wt-articleimg > img,
+.wt-search-slider-nav .wt-next,
+.wt-search-slider-nav .wt-prev,
+.wt-demo-sidebar,
+.wt-demo-img img,
+.wt-pagination ul li a,
+.wt-pagination ul li span,
+.wt-userlistinghold .wt-widgettag a,
+.wt-navdashboard > ul > li > a
+{
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	-ms-transition: all 300ms ease-in-out;
+	-o-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+.wt-sidebarwrapper,
+.wt-categorycontent,
+.wt-categoryslidup,
+.wt-categorycontent figure,
+.wt-cattitle,
+.wt-section-create
+{
+	-webkit-transition: all 500ms ease-in-out;
+	-moz-transition: all 500ms ease-in-out;
+	-ms-transition: all 500ms ease-in-out;
+	-o-transition: all 500ms ease-in-out;
+	transition: all 500ms ease-in-out;
+}

@@ -1,0 +1,44 @@
+[2020-04-22 08:48:44] local.ERROR: Command "config:all" is not defined.
+
+Did you mean one of these?
+    autotrans:all
+    config:cache
+    config:clear
+    migrate:install {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"config:all\" is not defined.
+
+Did you mean one of these?
+    autotrans:all
+    config:cache
+    config:clear
+    migrate:install at E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\symfony\\console\\Application.php:669)
+[stacktrace]
+#0 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\symfony\\console\\Application.php(235): Symfony\\Component\\Console\\Application->find('config:all')
+#1 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\symfony\\console\\Application.php(147): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(89): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(122): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2020-04-22 08:48:55] local.ERROR: Command "cache:all" is not defined.
+
+Did you mean one of these?
+    autotrans:all
+    cache:clear
+    cache:forget
+    cache:table
+    migrate:install {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"cache:all\" is not defined.
+
+Did you mean one of these?
+    autotrans:all
+    cache:clear
+    cache:forget
+    cache:table
+    migrate:install at E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\symfony\\console\\Application.php:669)
+[stacktrace]
+#0 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\symfony\\console\\Application.php(235): Symfony\\Component\\Console\\Application->find('cache:all')
+#1 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\symfony\\console\\Application.php(147): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(89): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(122): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 E:\\current_project\\freelancer.com\\ilfat\\job_portal\\job_portal\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 

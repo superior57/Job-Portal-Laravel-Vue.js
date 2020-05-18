@@ -1,0 +1,476 @@
+body.rtl{unicode-bidi: embed;}
+/* Theme RTL Styling */
+body.rtl .wt-navigationarea .wt-logo,
+body.rtl .wt-videocontent,
+body.rtl .wt-videoshow,
+body.rtl .wt-mobileimg,
+body.rtl .wt-appicon li,
+body.rtl .wt-footerlogohold .wt-logo,
+body.rtl .wt-footerlogohold .wt-socialiconssimple li,
+body.rtl .wt-copyrights,
+body.rtl .wt-formbannervtwo,
+body.rtl .wt-logininfo .wt-btn,
+body.rtl .wt-logininfo .wt-checkbox,
+body.rtl .wt-loginfooterinfo a,
+body.rtl .wt-headervtwo .wt-formbannervtwo .wt-dropdown,
+body.rtl .wt-userlistinghold .wt-userlistingcontent .wt-contenthead,
+body.rtl .wt-userlistinghold .wt-widgettag,
+body.rtl .wt-userlistinghold .wt-widgettag a,
+body.rtl .wt-viewjobholder ul li .wt-clicklike i,
+body.rtl .wt-viewjobholder ul li .wt-clicklike span,
+body.rtl .wt-viewjobholder ul li span i,
+body.rtl .tg-qrcodedetail,
+body.rtl .tg-qrcodeimg,
+body.rtl .wt-skillbar,
+body.rtl .wt-articlesuser .wt-particlehold figure,
+body.rtl .wt-profilecounter .wt-statisticcontent,
+body.rtl .wt-formregister .wt-registerformgroup .form-group,
+body.rtl .wt-termsconditions .wt-checkboxholder .wt-checkbox input[type=checkbox] + label span,
+body.rtl .wt-skillsrequired .wt-widgettag a,
+body.rtl .wt-skillsrequired .wt-tag,
+body.rtl .wt-proposalsrcontent .wt-title,
+body.rtl .wt-proposalhead{float: right;}
+body.rtl .wt-loginarea,
+body.rtl .wt-rightarea,
+body.rtl .wt-dropdown > span i,
+body.rtl .wt-addnav,
+body.rtl .wt-loginheader a,
+body.rtl .wt-skillholder span em,
+body.rtl .wt-proposalholder .wt-btnarea,
+body.rtl .wt-attachfile li em,
+body.rtl .wt-userlogedin{float: left;}
+body.rtl .wt-bannercontent,
+body.rtl .sub-menu, 
+body.rtl .mega-menu,
+body.rtl .wt-formbanner.wt-formbannertwo .wt-dropdown > span,
+body.rtl .wt-mobileimg,
+body.rtl .wt-experienceholder,
+body.rtl .wt-widgetbylocation,
+body.rtl .wt-footer .wt-fwidgetcontent,
+body.rtl .wt-footeraboutus .wt-fwidgetcontent,
+body.rtl .wt-fwidgettitle,
+body.rtl .wt-footerlogohold > .wt-description > p,
+body.rtl .wt-loginheader,
+body.rtl .wt-headervtwo .wt-formbannervtwo .wt-dropdown > span i,
+body.rtl .wt-headervtwo .wt-formbannervtwo .wt-dropdown > span em,
+body.rtl .wt-headervtwo .wt-formbannervtwo .wt-formoptions .wt-radioholder .wt-radio input[type=radio] + label,
+body.rtl .wt-starthiringcontent,
+body.rtl .wt-widgettitle,
+body.rtl .wt-widgetcontent .wt-checkboxholder .wt-checkbox label,
+body.rtl .wt-userlistingtitle span,
+body.rtl .wt-userlistinghold .wt-userlistingcontent .wt-contenthead,
+body.rtl .wt-userlistinghold .wt-description p,
+body.rtl .wt-viewjobholder,
+body.rtl .wt-formreport fieldset .form-group.wt-btnarea,
+body.rtl .wt-comfollowers,
+body.rtl .wt-sharejob .wt-widgetcontent .wt-socialiconssimple,
+body.rtl .wt-comcontent .wt-title,
+body.rtl .wt-comcontent .wt-description,
+body.rtl .tg-authorcodescan,
+body.rtl .wt-skillholder span,
+body.rtl .wt-userprofileholder .wt-userdetails,
+body.rtl .wt-usersingle .wt-usertitle,
+body.rtl .wt-experiencelisting,
+body.rtl .wt-formregister .wt-registerformgroup .form-group,
+body.rtl .wt-formaccordionhold .wt-accordiontitle .wt-radio label,
+body.rtl .wt-accordiondetails,
+body.rtl .wt-formtitle,
+body.rtl .wt-termsconditions,
+body.rtl .wt-userlogedin .wt-username h3,
+body.rtl .wt-userlogedin .wt-username span,
+body.rtl .wt-userlogedin .wt-usernav,
+body.rtl .wt-greetingcontent .wt-sectiontitle,
+body.rtl .wt-greetingcontent,
+body.rtl .wt-proposalhead,
+body.rtl .wt-projectdetail-holder,
+body.rtl .wt-proposalsrcontent
+{text-align: right;}
+body.rtl .sub-menu, 
+body.rtl .mega-menu,
+body.rtl .wt-formbanner.wt-formbannertwo fieldset .wt-radioholder,
+body.rtl .wt-experienceholder .wt-sectiontitle:after,
+body.rtl .wt-headervtwo .wt-formbannervtwo .wt-formoptions .wt-radioholder,
+body.rtl .wt-starthiringcontent .wt-sectiontitle:after,
+body.rtl .wt-categoriesslider-holder .wt-title,
+body.rtl .wt-featuredtag,
+body.rtl .wt-userlogedin:before,
+body.rtl .wt-greetingcontent .wt-sectiontitle:after
+{
+	right: 0;
+	left: auto;
+}
+body.rtl .wt-formoptions,
+body.rtl .wt-loginformhold,
+body.rtl .wt-viewjobholder,
+body.rtl .wt-userlogedin .wt-usernav
+{
+	right: auto;
+	left: 0;
+}
+body.rtl .wt-loginarea .wt-loginbtn{margin: 0 0 0 20px;}
+body.rtl .wt-loginarea{
+	border: 0;
+	padding: 0 20px 0 0;
+    border-right: 1px solid #ddd;
+}
+body.rtl .wt-bannerimages{margin: 0 0 0 30px;}
+body.rtl .wt-formbanner.wt-formbannertwo fieldset .form-group .form-control{padding: 10px 250px 10px 70px;}
+body.rtl .wt-formbanner.wt-formbannertwo .wt-dropdown > span{padding: 0 30px 0 20px;}
+body.rtl .wt-formoptions .wt-searchbtn{border-radius: 4px 0 0 4px;}
+body.rtl .wt-formbannertwo .wt-dropdown{
+	border: 0;
+	border-left: 1px solid #ddd;
+}
+body.rtl .wt-formbanner.wt-formbannertwo fieldset .wt-radioholder .wt-radio input[type=radio] + label:after{
+	left: 10px;
+	right: auto;
+}
+body.rtl .wt-radioholder .wt-radio input[type=radio] + label{padding:0 20px 0 30px; }
+body.rtl .wt-videoshow{margin: 0 0 0 20px;}
+body.rtl .wt-appicon li + li{margin:0 30px 0 0;}
+body.rtl .wt-fwidgetcontent li:hover a,
+body.rtl .wt-fwidgetcontent li a:focus{padding: 0 10px 0 0;}
+body.rtl .wt-widgetcompany{
+	border: 0;
+	padding: 0 40px 0 0;
+	border-right: 1px solid rgba(255, 255, 255, 0.20);
+}
+body.rtl .wt-socialiconssimple li:first-child{padding: 0 0 0 10px;}
+body.rtl .wt-socialiconssimple li:last-child{padding: 0 10px 0 0;}
+body.rtl .wt-formbannervtwo{margin: 13px 30px 13px 0;}
+body.rtl .wt-headervtwo .wt-navigationarea .wt-logo{
+	border: 0;
+	border-left: 1px solid #ddd;
+    padding: 0 0 0 30px;
+}
+body.rtl .wt-logininfo .wt-checkbox{margin: 0 20px 0 0;}
+body.rtl .wt-checkbox input[type=checkbox] + label,
+body.rtl .wt-radio input[type=radio] + label{padding: 0 30px 0 0;}
+body.rtl .wt-checkbox input[type=checkbox] + label:after,
+body.rtl .wt-radio input[type=radio] + label:before,
+body.rtl .wt-checkbox input[type=checkbox] + label:before{
+	right: 0;
+	left: auto;
+}
+body.rtl .wt-radio input[type=radio] + label:after{right: 5px;}
+body.rtl .wt-loginfooterinfo a + a:before{left: auto;right: 0;}
+body.rtl .wt-headervtwo .wt-formbannervtwo fieldset .form-group .form-control{
+	padding: 10px 30px 10px 300px;
+}
+body.rtl .wt-headervtwo .wt-formbanner fieldset .wt-radioholder .wt-radio input[type=radio] + label:after{
+	right: auto;
+	left: 10px;
+}
+body.rtl .wt-headervtwo .wt-formbannervtwo .wt-dropdown{
+	border-left: 0;
+	border-right: 1px solid #ddd;
+}
+body.rtl .wt-starthiringhold > .float-right{float: left !important;}
+body.rtl .wt-twocolumns div[class*="col-"],
+body.rtl .wt-userprofileholder div[class*="col-"],
+body.rtl .wt-starthiringhold > .float-left{float: right !important;}
+body.rtl .wt-formsearch fieldset .form-group .form-control{padding: 10px 20px 10px 60px;}
+body.rtl .wt-formsearch fieldset .wt-searchgbtn{
+	left: 0;
+	right: auto;
+	border-radius: 4px 0 0 4px;
+}
+body.rtl .wt-categoriesslider{padding: 0 319px 0 0;}
+body.rtl .wt-categoriesslider-holder .wt-title{
+	border: 0;	
+	border-left: 1px solid #ddd;
+}
+body.rtl .wt-userlistingimg{
+	float: right;
+	margin: 0 0 30px 30px;
+}
+body.rtl .wt-featuredtag,
+body.rtl .wt-userprofileholder .wt-featuredtag{
+	right: 0;
+	left: auto;
+	border-right: 0;
+	border-top: 40px solid #f1c40f;
+	border-left: 40px solid transparent;
+}
+body.rtl .wt-userlisting-breadcrumb li:first-child{padding: 0 0 0 12px;}
+body.rtl .wt-viewjobholder,
+body.rtl .wt-userlisting-breadcrumb li + li{
+	border-left: 0;
+	border-right: 1px solid #ddd;
+}
+body.rtl .wt-postarticlemeta li + li{
+	border: 0;
+	border-right: 1px solid #adadad;
+}
+body.rtl .wt-postarticlemeta li:first-child{padding: 0 0 0 12px;}
+body.rtl .wt-viewjobholder ul li span img{margin: 0 0 0 9px;}
+body.rtl .wt-select select{padding: 10px 20px 10px 30px;}
+body.rtl .wt-select:after{
+	left: 15px;
+	right: auto;
+}
+body.rtl .wt-sharejob .wt-widgetcontent .wt-socialiconssimple li:last-child{padding: 0;}
+body.rtl .tg-qrcodeimg {margin: 0 0 0 20px;}
+body.rtl .wt-articlesuser .wt-particlecontent{
+	text-align: right;
+	padding: 0 20px 0 0;
+}
+body.rtl .wt-userprofileholder .wt-userdetails{padding: 0 15px 0 30px}
+body.rtl .wt-userprofileholder{
+	padding: 30px;
+	padding-left: 0; 
+}
+body.rtl .wt-userprofileholder .wt-userprofile{padding: 0 0 0 15px;}
+body.rtl .wt-profilecounter{
+	border-left: 0;
+	border-right: 1px solid #f2f2f2;
+}
+body.rtl .wt-featuredtag img{margin: -85px 8px 0;}
+body.rtl .wt-joinsteps li + li:after{
+	left: auto;
+	right: -32px;
+}
+body.rtl .wt-formaccordionhold .wt-accordiontitle .wt-radio label{padding: 17px 30px 17px 20px}
+body.rtl .wt-formaccordionhold .wt-accordiontitle .wt-radio input[type=radio] + label:after{right: 5px;}
+body.rtl .wt-formregister .wt-checkboxholder .wt-btn + .wt-btn{
+	margin: 0;
+	margin-right: 26px;
+}
+body.rtl .wt-userlogedin .wt-userimg{
+	float: right;
+	margin: 0 0 0 10px;
+}
+body.rtl .wt-userlogedin{padding: 20px 20px 20px 0;}
+body.rtl .wt-usernav ul li.menu-item-has-children:after,
+body.rtl .wt-usernav ul li.page_item_has_children:after{
+	right: auto;
+	left: 20px;
+	content:'\e875';
+}
+body.rtl .wt-usernav ul li .sub-menu{
+	right: auto;
+	left: 100%;
+	border-radius: 0 4px 4px 0;
+}
+body.rtl .wt-attachfile li em i{text-align: left;}
+body.rtl .wt-proposalsicon{
+	float: right;
+	border-right:0;
+	margin: 0 0 0 30px;
+	padding: 0 0 0 25px;
+	border-left: 1px solid #ddd;
+}
+body.rtl .wt-categoryexpl div[class*="col-"]{float: right !important;}
+body.rtl .wt-forgotpassword-holder .card .card-header{text-align: right;}
+body.rtl .wt-forgotpassword-holder .card .text-md-right{text-align: left !important;}
+body.rtl .wt-forgotpassword-holder .card .offset-md-4{
+	margin-right: 33.3333333333%;
+	text-align: right;
+}
+body.rtl .modal-header .close{margin: -1rem auto -1rem -1rem;}
+body.rtl .wt-dashboardboxcontent .wt-tablecategories .wt-radio, 
+body.rtl .wt-dashboardboxcontent .wt-tablecategories .wt-radio label,
+body.rtl .wt-dashboardboxcontent .wt-tablecategories .wt-checkbox,
+body.rtl .wt-dashboardboxcontent .wt-tablecategories .wt-checkbox label{padding: 0;}
+body.rtl .sj-producttitle .sj-checkpaydetails,
+body.rtl .sj-checkouttable tbody tr td,
+body.rtl .sj-checkouttable thead:first-child > tr:first-child > th,
+body.rtl .sj-checkoutjournal .sj-title{text-align: right;}
+body.rtl .sj-checkouttable tbody tr td:last-child{
+	border-left: 0;
+	border-right: 1px solid #eee;
+}
+body.rtl .sj-paymentmethod li a{
+	text-align: right;
+	padding: 10px 10px 10px 30px;
+}
+body.rtl .sj-paymentmethod li a:after{
+	content: '\f104';
+	left: 20px;
+	right: auto;
+}
+body.rtl .wt-form-paycard fieldset .form-group label{text-align: right;}
+body.rtl .sj-paymentmethod li a span{
+	padding-left: 0;
+	text-align: right;
+	padding-right: 30px;
+}
+body.rtl .sj-paymentmethod li a i{
+	border-right: 0;
+	border-left: 1px solid #eee;
+}
+body.rtl .wt-categoryslidercontent figure,
+body.rtl .wt-categoryslidercontent .wt-cattitle,
+body.rtl .sj-paymentmethod li{float: right;}
+body.rtl .wt-categoryslidercontent .wt-cattitle,
+body.rtl .sj-checkpaymentmethod .sj-title h3{text-align: right;}
+body.rtl .wt-categoryslidercontent figure{margin-left: 15px; margin-right: 0;}
+/* RTL Responsive */
+@media (max-width:1536px){
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo fieldset .form-group{float: right;}
+	body.rtl .wt-search-have.show-sform .wt-btn-remove-holder{
+		float: left;
+		margin-left:0;
+		margin-right: 30px;
+	}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo{
+		right: auto;
+		left: 15px;
+	}
+	body.rtl .wt-headervtwo .wt-navigationarea .wt-logo{border:0;}
+	body.rtl .wt-respsonsive-search{
+		float: left;
+		margin: 20px 6px 20px 14px;
+	}
+}
+@media (max-width:1280px){
+	body.rtl .sj-paymentmethod li a span{padding-right:10px; }
+}
+@media (max-width:1199px){
+	body.rtl .wt-userprofileholder{padding: 30px;}
+	body.rtl .wt-profilecounter{border-right: 0;}
+	body.rtl .wt-proposalholder .wt-btnarea{float: right; }
+	body.rtl .wt-viewjobholder,
+	body.rtl .wt-userlisting-breadcrumb li + li{border-right: 0;}
+	body.rtl .wt-userlisting .wt-userlistingimg{
+		float: none;
+		margin: 0 auto 20px;
+	}
+	body.rtl .wt-userlisting .wt-userlistingcontent .wt-description p,
+	body.rtl .wt-userlisting .wt-userlistingcontent .wt-contenthead{text-align: center;}
+	body.rtl .wt-userlisting .wt-widgettag a{float: none;}
+	body.rtl .wt-userlisting .wt-widgettag{float: none;}
+}
+@media (max-width:1080px){
+	body.rtl .wt-categoryslidercontent figure{
+		margin: 0 auto 10px;
+		float:none;
+	}
+	body.rtl .wt-categoryslidercontent .wt-cattitle{text-align: center;}
+}
+@media (max-width:991px){
+	body.rtl .wt-userprofileholder .wt-userprofile{padding: 0;}
+	body.rtl .wt-userprofileholder .wt-userdetails{
+		padding: 0;
+		text-align: center;
+	}
+	body.rtl .wt-header .wt-rightarea .wt-nav .navbar-toggler{margin: 20px;}
+	body.rtl .wt-widgetcompany{padding-right:20px; }
+	body.rtl .wt-navigation ul li{text-align: right;}
+	body.rtl .wt-dropdowarrow{
+		right: auto;
+		left: 15px;
+	}
+	body.rtl .wt-dropdowarrow i:before{content: "\e875";}
+	body.rtl .wt-open > .wt-dropdowarrow > i:before{content: "\e874";}
+	body.rtl .wt-headervtwo .wt-formbannervtwo fieldset .form-group .form-control{
+		padding-left:280px; 
+		padding-right: 20px;
+	}
+}
+@media (max-width:767px){
+	body.rtl .wt-categoriesslider{padding:0 250px 0 0;}
+	body.rtl .wt-forgotpassword-holder .card .offset-md-4{margin: 0;}
+	body.rtl .wt-forgotpassword-holder .card .text-md-right{text-align: right !important;}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo{left: 0;}
+	body.rtl .wt-search-have.show-sform .wt-btn-remove-holder{
+		left: 0;
+		right: auto;
+	}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo fieldset .form-group{
+		padding-right:0;
+		padding-left:40px;  
+	}
+	body.rtl .wt-copyrights{float: none;}
+	body.rtl .wt-widgetcompany{
+		border:0;
+		padding: 0;
+	}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo fieldset .wt-formoptions{
+		right: auto;
+		left: 40px;
+	}
+}
+@media (max-width:720px){
+	body.rtl .wt-headervtwo .wt-navigationarea .wt-logo{
+		border: 0;
+		padding: 0;
+		float: none;
+		margin-bottom:0; 
+	}
+	body.rtl .wt-header .wt-rightarea .wt-nav .navbar-toggler{margin:20px 0;}
+	body.rtl .wt-header .wt-rightarea .wt-nav{float: right;}
+	body.rtl .wt-loginarea{border: 0;}
+	body.rtl .wt-respsonsive-search{float: right;}
+}
+@media (max-width:575px){
+	body.rtl .wt-categoriesslider{padding:0;}
+	body.rtl .wt-categoriesslider-holder .wt-title{
+		border:0;
+		border-bottom: 1px solid #ddd;
+	}
+}
+@media (max-width:568px){
+	body.rtl .wt-formbannertwo fieldset .wt-dropdown > span{padding: 0 20px;}
+	body.rtl .wt-formbanner.wt-formbannertwo fieldset .form-group .form-control{padding: 10px 20px;}
+	body.rtl .wt-formoptions .wt-searchbtn{border-radius: 0 0 4px 4px;}
+	body.rtl .wt-formbannertwo .wt-dropdown{
+		border-left: 0;
+		border:1px solid #ddd;
+	}
+	body.rtl .wt-headervtwo .wt-formbannervtwo fieldset .form-group .form-control{
+		border: 0;
+		padding-left:20px;
+	}
+	body.rtl .wt-headervtwo .wt-formoptions .wt-searchbtn{
+		left: 0;
+		right: auto;
+	}
+	body.rtl .wt-formbannervtwo fieldset .form-group .wt-formoptions .wt-dropdown{
+		border:0;
+		padding-right:0;
+		padding-left:50px;  
+	}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo fieldset .wt-formoptions{
+		left: 0;
+		border-top: 1px solid #ddd;
+	}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo fieldset .wt-dropdown > span{text-align: right;}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo fieldset .form-group{padding: 0;}
+	body.rtl .wt-search-have.show-sform .wt-formbannervtwo fieldset{
+		padding-right:0;
+		padding-left:30px;  
+	}
+}
+@media (max-width: 480px){
+	body.rtl .wt-usernav ul li .sub-menu{right: 0;}
+	body.rtl .wt-formregister .wt-checkboxholder .wt-btn{
+		clear: both;
+		float: right;
+	}
+	body.rtl .wt-formregister .wt-checkboxholder .wt-btn + .wt-btn{margin: 10px 0 0;}
+	body.rtl .wt-joinsteps li{float: right;}
+	body.rtl .wt-joinsteps li + li:after{right: -15px;}
+	body.rtl .wt-userprofileholder .wt-userdetails .wt-userlisting-breadcrumb li{text-align: center;}
+	body.rtl .wt-userlisting-breadcrumb li{text-align: right;}
+	body.rtl .wt-userlisting-breadcrumb li:first-child{padding: 0;}
+}
+@media (max-width: 420px){
+		body.rtl .sj-paymentmethod li a i{border: 0;}
+		body.rtl .wt-userlistingcontent .wt-userlisting-breadcrumb li + li,
+		body.rtl .wt-userlisting .wt-contenthead .wt-userlisting-breadcrumb li + li{border-right: 0;}
+}
+@media (max-width: 375px){
+	body.rtl .wt-proposalsicon{
+		border: 0;
+		margin: 0 0 10px;
+		padding: 0 0 10px;
+		border-bottom: 1px solid #ddd;
+	}
+	body.rtl .wt-proposalsrcontent .wt-title{width: 100%;}
+	body.rtl .tg-qrcodeimg {margin: 0 0 10px;}
+	body.rtl .wt-postarticlemeta li + li{
+		border: 0;
+		border-top: 1px solid #adadad;
+	}
+}

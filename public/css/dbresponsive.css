@@ -1,0 +1,579 @@
+@media (max-width:1680px){
+	.wt-likedfreelancers .wt-userlistingcontent .wt-rightarea{
+		float: left;
+		margin: 20px 0 0;
+	}
+	.wt-wrapper .wt-main { padding-left: 90px; }
+	.wt-wrapper .wt-sidebarwrapper { width: 50px; }
+	.wt-sidebarwrapper .wt-logo{ margin: 0 0 0 60px; }
+	.wt-user{
+		background: #363b4d;
+		padding: 30px 0 40px 65px;
+	}
+	.wt-socialandappicons{ margin: 0 0 0 60px; }
+	.wt-usersidebar .wt-companysinfo .wt-title,
+	.wt-usersidebar .wt-companysinfo .wt-btnarea{margin-left: 200px;display: none;}
+	.wt-usersidebar .wt-companysinfo figure{
+		width: 46px;
+		height: 46px;
+		border-width: 3px;
+	}
+	.wt-openmenu .wt-usersidebar .wt-companysinfo figure{
+		width: 100px;
+		height: 100px;
+		border-width: 6px;
+	}
+	.wt-openmenu .wt-companysdetails.wt-usersidebar .wt-companysinfo{padding: 0 0 30px;}
+	.wt-companysdetails.wt-usersidebar .wt-companysinfo{padding: 30px 0;}
+	.wt-companysdetails.wt-usersidebar .wt-companysimg img{
+		width: auto;
+		height: 140px;
+		max-width: none;
+	}
+	.wt-wrapper.wt-openmenu .wt-sidebarwrapper{width:270px;}
+	.wt-openmenu .wt-usersidebar .wt-companysinfo .wt-title,
+	.wt-openmenu .wt-usersidebar .wt-companysinfo .wt-btnarea{
+		margin: 0;
+		display: block;
+	}
+	.wt-openmenu .wt-usersidebar .wt-companysinfo .wt-title{margin-bottom:15px; }
+	.wt-navdashboard-footer{display: none;}
+	.wt-openmenu .wt-navdashboard-footer{display: block;}
+	.wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea{width: 100%;}
+	.wt-canceljobholder .wt-userlistinghold .wt-rightarea .wt-btnarea{padding: 0 0 30px;}
+	.wt-jobdetailscontent .wt-userlistinghold .wt-rightarea{width: auto;}
+	.wt-jobdetailscontent .wt-userlistingvtwo .wt-contenthead{max-width: 380px;}
+	.la-alljob-holder .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea{width: auto;}
+	.la-manage-jobs-holder .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea{width: auto;}
+	.wt-section-create{transform: translateX(100%);}
+	.wt-section-openmenu .wt-section-create{transform: translateX(0);}
+	.wt-section-create .wt-btnmenutoggle{margin: 0;}
+	.wt-section-openmenu .wt-section-create .wt-btnmenutoggle{margin: 0 -20px 0 0;}
+}
+@media (max-width:1600px){ 
+	.wt-jobdetailscontent .wt-userlistinghold .wt-rightarea{
+		width: 100%;
+		float: left;
+		margin-top: 0;
+	}
+	.wt-wrapper .wt-sidebarwrapper{padding-top:152px; }
+	.wt-btnmenutoggle{top: 170px;}
+}
+@media (max-width:1536px){
+	.wt-wrapper .wt-sidebarwrapper{padding-top: 76px;}
+	.wt-btnmenutoggle {top: 140px;}
+}
+@media (max-width:1440px){
+	.wt-rcvproposalholder .wt-proposalitem .wt-rightarea{
+		width: 100%;
+		margin: 20px 0 -25px;
+		border-top: 1px solid #ddd;
+	}
+	.la-ps-freelancer .wt-userform .wt-skills.la-skills-holder > div:nth-child(2) .wt-skillsform fieldset .form-group{padding-right:5px; }
+	.la-ps-freelancer .wt-userform .wt-skills.la-skills-holder > div:nth-child(2) .wt-skillsform .wt-btnarea.form-group{position: static;padding: 5px;}
+}
+@media (max-width:1400px){
+	table.wt-tablecategories tbody tr td{padding: 10px;}
+	.wt-tablecategories thead tr th{padding: 10px;}
+	.wt-dashboardsave .wt-proposalsr .wt-proposalsrcontent figure{
+		border: 0;
+		margin: 0 0 20px 0;
+		padding: 0 0 20px 0;
+		border-bottom: 1px solid #ddd;
+	}
+	.wt-dashboardsave .wt-proposalsr .wt-proposalsrcontent .wt-title{
+		padding: 0;
+		float: left;
+		width: 100%;
+	}
+}
+@media (max-width:1366px){
+	.la-manage-jobs-holder .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea{width: 100%;}
+}
+@media (max-width:1360px){
+	.wt-msgbtns{
+		width: 100%;
+		float: left;
+		margin-top:20px; 
+		min-width: 0;
+	}
+	.wt-jobalerts .alert span{max-width: 390px;}
+	.wt-alertbtn{clear: both;}
+	.wt-jobalerts .alert span,
+	.wt-jobalerts .alert em{
+		padding: 0 !important;
+		float: left;
+	}
+	.wt-jobalerts .alert{padding: 20px 50px 20px 20px;}
+	.wt-jobalertsdashboard .wt-alertbtn{float: left;margin: 10px 0 0;}
+	.wt-messageboxvtwo .wt-userprofile .wt-title a.wt-btn{padding: 0 40px;}
+}
+@media (max-width:1280px){
+	table.wt-tablecategories tbody tr td .wt-actionbtn{
+		flex-direction: column;
+	}
+	.wt-actionbtn a + a{
+		clear: both;
+		margin: 10px 0 0;
+	}
+	.wt-hiredfreelancer .wt-rightarea .wt-hireduserstatus{
+		margin: 0;
+		min-width: 0;
+		padding: 30px 20px;
+	}
+	.wt-hiredfreelancer .wt-titlewithsearch .wt-formsearch{margin-right:20px; }
+}
+@media (max-width:1199px){
+	#packages + #packages{margin-top: 30px; }
+	.wt-insightsitemholder .col-lg-6:nth-child(n+3) .wt-insightsitem{margin-top: 30px;}
+	.wt-insightuser .wt-dashboardsave{margin: 0;}
+	.wt-insightuser .wt-dashboardsave div + div .wt-proposalsr{margin: 20px 0 0;}
+	.wt-proposals .wt-dashboardsave{margin-top:30px; }
+	.wt-dashboardbox.wt-earningsholder,
+	.wt-dashboardinvocies{margin-bottom:30px;}
+	.wt-categorys{margin-top:30px;}
+	.wt-tablecategories thead tr th,
+	table.wt-tablecategories tbody tr td{padding:10px 20px;}
+	.wt-package{width: 50%;}
+	.wt-package:nth-child(n+3){border-top: 1px solid #eff2f5;}
+	.wt-userlistingvtwo .wt-contenthead{
+		width: 100%;
+		max-width: none;
+	}
+	.wt-tabscontent,
+	.wt-dashboardtabs{width: 100%;}
+	.wt-dashboardtabs .wt-tabstitle{display: block;}
+	.wt-offersmessages ul li{width: 40%;}
+	.wt-offersmessages ul li:nth-child(2){width: 60%;}
+	.wt-moredetailsholder > div > div:nth-child(n+3) .wt-insightsitem{margin-top:20px; }
+	.la-setting-holder .wt-dashboardtabs .wt-tabstitle li{width: 100%;}
+	.la-setting-holder .wt-userform .wt-updatall{
+		border: 0;
+		width: 100%;
+	}
+}
+@media (max-width:1080px){
+	.wt-updatall .wt-btn{
+		float: left;
+		clear: both;
+	}
+	.wt-chatbox .wt-messages{height: 300px;}
+	.la-setting-holder .wt-userform .wt-updatall{float: right;}
+}
+@media (max-width:1000px){	
+	.wt-saveitem-breadcrumb li{margin: 5px 0;}
+}
+@media (max-width:991px){
+	.wt-tableservice .wt-userlistingsingle .wt-userlistingimg{width: 60px;}
+	.wt-tableservice .wt-userlistingsingle .wt-contenthead{margin: 10px 0 0;}
+	.wt-tableservice .wt-userlistingsingle .wt-userlistingcontent{max-width: 150px;}
+	.wt-service-tabel .wt-freelancers-content{
+		float: left;
+		width: 100%;
+		padding: 10px 0 0;
+	}
+	.wt-post-job-wrap .form-group-half.wt-formwithlabel{width: 100%;}
+	.la-admin-languages > div > div[class*="col-"]:nth-child(n+2),
+	.la-admin-locations > div > div[class*="col-"]:nth-child(n+2),
+	.la-admin-departments > div > div[class*="col-"]:nth-child(n+2),
+	.la-admin-badges > div > div[class*="col-"]:nth-child(n+2),
+	.la-admin-skills > div > div[class*="col-"]:nth-child(n+2){margin-top:30px; }
+	body.lang-fr .wt-dashboardsave .wt-proposalsr .wt-proposalsrcontent .wt-title{width: 100%;}
+	.wt-rcvproposalholder .wt-proposalitem .wt-rightarea .wt-hireduserstatus{
+		border:0;
+		padding:0;
+		margin:0;
+		border-top:6px solid #fff;
+		min-height: 100px;
+		width: 100%;
+	}
+	.wt-rcvproposalholder .wt-proposalitem .wt-rightarea{
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+	}
+	.la-category-box{margin: 0 0 30px;}
+	.la-addpackages > div > div:first-child{margin: 0 0 30px;}
+	.la-alljob-holder .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea{
+		width: 100%;
+		border-top: 1px solid #ddd;
+	}
+	.la-alljob-holder .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea .wt-btnarea{
+		padding: 30px 0;
+		min-height: 100px;
+	}
+	.wt-historycontentcol .wt-historycolhead{display: none;}
+	.wt-dateandmsg{width: 100%;}
+	.wt-dateandmsg span:nth-child(2){
+		width: 100%;
+		max-width: none;
+	}
+	.wt-holdersolution{margin-top:30px; }
+	.wt-offersmessages ul li:nth-child(2){
+		width: 100%;
+		display: none;
+	}
+	.wt-openmsg .wt-offersmessages ul li:nth-child(2){display: block;}
+	.wt-openmsg .wt-offersmessages ul li:first-child{display: none;}
+	.wt-offersmessages ul li:first-child{width: 100%;}
+	.wt-openmsg > .wt-dashboardboxtitle{display: none;}
+	.wt-openmsg .wt-titlemessages{display: block;}
+	.wt-messagebox{display: none;}
+	.wt-userlogedin:before{display: none;}
+	.wt-dashboardsave{margin-top:30px; }
+	.wt-sliderbox__form .form-group-half{width: 100%;}
+}
+@media (max-width:800px){
+	.wt-attachfilevtwo li{width: 50%;}
+}
+@media (max-width:767px){
+	.wt-oderholder .sj-checkouttable > tbody > tr > td,
+	.wt-account-details .sj-checkouttable > tbody > tr > td{width: 100%;}
+	.wt-titlewithsearch .wt-formsearch.la-mailfilter{clear: both;margin: 10px 0 0;}
+	.wt-fixednav .wt-btnmenutoggle{top: 170px;}
+	.menu-icon{display: none;}
+	.wt-btnmenutoggle:before{display: block;}
+	.wt-wrapper .wt-sidebarwrapper{width: 0;}
+	.wt-openmenu .wt-btnmenutoggle{left: 100%;}
+	.wt-wrapper.wt-openmenu .wt-main,
+	.wt-wrapper .wt-main{padding:20px 15px; }
+	.wt-insightsitemholder .col-12:nth-child(n+2) .wt-insightsitem{margin-top:30px; }
+	.wt-myskills li{padding: 10px 20px;}
+	.wt-userformvtwo{padding: 0;}
+	.tab-savecontent .wt-userlistinghold,
+	.tab-savecontent .wt-yourdetails,
+	.tab-savecontent .wt-followcompomy,
+	.tab-savecontent .wt-likefreelan{padding: 30px 10px;}
+	.tab-savecontent .wt-dashboradsaveitem{padding: 0 10px;}
+	.tab-savecontent .wt-focomponylist{padding: 0;}
+	.wt-likedfreelancers{padding: 0;}
+	.wt-likedfreelancers .wt-userlistingcontent{
+		width: 100%;
+		float: left;
+	}
+	.wt-likedfreelancers .wt-userlistinghold .wt-userlistingimg{margin: 0 0 20px;}
+	.wt-hiredfreelancer .wt-titlewithsearch .wt-formsearch{
+		margin: 0;
+		width: 100%;
+		min-width: 0;
+	}
+	.wt-jobdetailscontent,
+	.wt-historycontent{padding: 0;}
+	.wt-historycontent .wt-userform{width: 100%;}
+	.wt-settingscontent,
+	.lara-detail-form,
+	.wt-accountdel .wt-userform,
+	.wt-selectdesign{padding: 0;}
+	.wt-templateoption{
+		border: 0;
+		padding: 0;
+	}
+	.wt-dashboardboxcontent.wt-categoriescontentholder{padding: 0;}
+	.wt-packageinfo{line-height: 20px;}
+	.wt-querycontent .wt-userform,
+	.wt-dashboardboxcontent.wt-packages{padding: 0;}
+	.wt-package{width: 100%;}
+	.wt-package:nth-child(n+2){border-top: 1px solid #eff2f5;}
+	.wt-dashboardboxcontent.wt-offersmessages{padding: 0;}
+	.wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea .wt-btnarea,
+	.wt-userlistingvtwo .wt-userlistingcontentvtwo .wt-rightarea .wt-btnarea{padding: 0 0 30px; }
+	.wt-hireduserstatus{
+		margin: 0;
+		width: 100%;
+		min-width: 0;
+		border-left: 0;
+		border-top:6px solid #fff;
+	}
+	.wt-skillsform fieldset .form-group{padding: 0;}
+	.wt-skillsform fieldset .form-group.wt-btnarea{
+		margin-top:10px; 
+		position: static;
+	}
+	.wt-userform fieldset .form-group-half{width: 100%;}
+	.wt-dashboardtabs .wt-tabstitle li {width: 100%;}
+	.wt-usersidebar{display: block;}
+	.wt-moredetailsholder > div > div:nth-child(n+2) .wt-insightsitem{margin-top:20px; }
+	.wt-skillscontent-holder,
+	.wt-tabcompanyinfo .wt-accordiondetails,
+	.wt-location .wt-userform,
+	.wt-profilephotocontent,
+	.wt-yourdetails .wt-userform,
+	.wt-experienceaccordion,
+	.wt-helpsupportcontent,
+	.wt-managejobcontent{padding: 0;}
+	.wt-dashboardboxcontent,
+	.wt-collapseexp{padding: 30px 10px;}
+	.la-banner-settings .wt-location > span{padding: 0;}
+	.wt-usersidebar{display: block;}
+	.la-manage-jobs-holder .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea .wt-btnarea{
+		width: 100%;
+		padding: 10px 0;
+		min-height: 100px;
+	}
+	.la-alljob-holder .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea .wt-hireduserstatus{border:0; }
+	.wt-section-create .wt-btnmenutoggle{
+		margin-right: -20px;
+		left: auto;
+	}
+	.wt-section-create .wt-btnmenutoggle:before{
+		content: '\e875';
+		left: auto;
+		right: 10px;
+	}
+	.wt-section-openmenu .wt-section-create .wt-btnmenutoggle:before{
+		content: '\e876';
+		left: auto;
+		right: 0px;
+	}
+	.wt-section-create{width: 280px;}
+	.list-group-item{width: 100%;}
+	.wt-section-area .wt-dashboardboxtitle{padding: 25px 15px;}
+	.wt-section-area .wt-tabscontenttitle{padding: 10px 15px;}
+	.wt-section-area .la-switch-option .switch-button-control{padding-top: 7px;}
+	.wt-section-create.wt-fixednav .wt-draggable-group{padding-bottom: 150px;}
+	.wt-draggable-group{padding-bottom: 225px;}
+}
+@media (max-width:720px){
+	.la-payout-holder .wt-titlewithsearch.wt-titlewithbtn h2{display: block;}
+	.la-payout-holder .wt-titlewithsearch.wt-titlewithbtn .wt-formsearch{float: left;}
+	.la-payout-holder .wt-titlewithsearch.wt-titlewithbtn .wt-formsearch .wt-select:first-child{padding-left: 0;}
+	.wt-wrapper .wt-sidebarwrapper{padding-top: 141px;}
+	.wt-accordioninnertitle span{display: block;}
+	.wt-accordioninnertitle .wt-rightarea{
+		float: left;
+		width: 100%;
+		margin-top:10px;
+		padding:0 !important; 
+	}
+	.wt-jobskills .wt-userform fieldset .form-group:first-child,
+	.wt-jobskills .wt-userform fieldset .form-group:nth-child(2){width: 100%;}
+	.wt-btnmenutoggle {top: 220px;}
+}
+@media (max-width:640px){
+	.la-payout-holder .wt-titlewithsearch.wt-titlewithbtn .wt-formsearch .wt-select{width: 100%;padding:0;}
+	.la-payout-holder .wt-titlewithsearch.wt-titlewithbtn .wt-formsearch .wt-select + .wt-select{margin-top:10px;}
+	.la-payout-holder .wt-titlewithsearch.wt-titlewithbtn .wt-formsearch{max-width: 170px;}
+	.la-switch-option .switch-button-control{
+		display: block;
+		float: left;
+		width: 100%;
+		margin-top: 10px;
+	}
+	.la-switch-option .switch-button-control .switch-button{float: left;}
+	.la-wt-demo .wt-designimg,
+	.la-designtitle-holder{width: 100%;}
+	.la-designtitle-holder{margin-top:30px;padding: 0; }
+	.wt-attachmentsholder .wt-tabscontenttitle .wt-rightarea{
+		float: left;
+		width: 100%;
+	}
+	.wt-saveitemholder .wt-focomponylist .wt-userlistingcontent .wt-followcomhead .wt-title{width: 100%;}
+	.wt-saveitemholder .wt-focomponylist .wt-userlistingcontent .wt-followcompomy-breadcrumb{
+		float: left;
+		width: 100%;
+		padding: 0;
+	}
+	.wt-accountinfo li{width: 100%;}
+	.wt-accountinfo li + li{padding-top: 30px;}
+	.wt-selectdesign ul li{width: 100%;}
+	.wt-selectdesign ul li + li{border-top: 1px solid #ddd;}
+	.wt-child-1,
+	.wt-child-2,
+	.wt-child-3,
+	.wt-child-4,
+	.wt-child-5{padding-left: 105px !important; }
+	.wt-accordiondetails .wt-title h3{
+		line-height: 22px;
+		font-size: 16px;
+	}
+	.wt-pagination ul li span,
+	.wt-pagination ul li a {
+		height: 30px;
+		width: 30px;
+		float: left;
+		line-height: 30px;
+	}
+	.wt-experienceaccordion .wt-collapseexp fieldset .form-group .wt-labelgroup > span{
+		margin: 0;
+		display: block;
+	}
+	.wt-infouploading .wt-fileuploading{
+		padding:15px 0 0;
+		width: 100%;
+	}
+	.wt-attachfilevtwo li{width: 100%;}
+	.wt-labelgroup{
+		text-align: center;
+	}
+	.wt-labelgroup label{margin: 0 0 10px;margin-right:0 !important; }
+	.wt-labelgroup span{display: block;}
+	.wt-skillsform fieldset .form-group .wt-select,
+	.wt-skillsform fieldset .form-group .form-control{width: 100%;}
+	.wt-skillsform fieldset .form-group .wt-select select{
+		border-right: 0;
+		border-bottom: 1px solid #ddd;
+	}
+	.la-footer-setting .wt-skillsform fieldset .form-group .wt-select{width: 100%;}
+	.la-footer-setting .search-content .form-group .form-control:first-child{
+		border: 0;
+		border-bottom: 1px solid #ddd;
+	}
+	.la-footer-setting .wt-skillsform fieldset .form-group .wt-rightarea .wt-addinfobtn{
+		width: 30px;
+		line-height: 32px;
+	}
+	.la-footer-setting .wt-skillsform fieldset .form-group .wt-rightarea{
+		top: 50%;
+		margin: -16px 0 0;
+	}
+	.la-footer-setting .wt-skillsform fieldset .form-group{padding-right:50px; }
+	.wt-ad-pages .list-group{padding: 30px 15px !important;}
+}
+@media (max-width:568px){
+	.wt-titlewithsearch .wt-formsearch + .wt-skilldel{margin-bottom: 0; }
+	.wt-tableservice .wt-formsearch > fieldset > .form-group .wt-searchgbtn{width: 40px;}
+	.wt-tableservice .wt-formsearch > fieldset > .form-group{
+		width: 170px;
+		padding-right: 40px;
+	}
+	.wt-titlewithbtn h2{display: block;}
+	.wt-btnmenutoggle {top: 70px;}
+	.wt-titlewithsearch h2{line-height: 20px;margin-bottom:10px; }
+	.wt-jobchart{height: 200px !important;}
+	.wt-titlewithsearch .wt-formsearch{max-width: none;}
+	.wt-viewprofile{
+		float: left;
+		margin-top: 20px;
+		line-height: 16px;
+	}
+	.wt-titlemessages .wt-back{
+		line-height: 18px;
+		margin-bottom: 20px;
+	}
+	.wt-titlemessages .wt-userlogedin{width: 100%;}
+	.wt-iconbox{height: auto;}
+	.wt-btnsendmsg{
+		margin: 0;
+		float: left;
+		width: 100%;
+		margin-top: 0;
+		border-radius: 0 0 4px 4px;
+	}
+	.wt-replaybox{border-radius: 0 0 4px 4px;}
+	.wt-offerermessage figure,
+	.wt-memessage figure{
+		width: 30px;
+		height: 30px;
+	}
+	.wt-offerermessage{padding: 0 0 0 40px}
+	.wt-memessage{padding: 0 40px 0 0;}
+	.wt-offersmessages ul li:nth-child(2){padding: 20px;}
+	.wt-formprojectinfo .wt-attachfile em{width: 100%;}
+	.wt-offerermessage .wt-description p, .wt-memessage .wt-description p{
+		width: 100%;
+		max-width: none;
+	}
+	.wt-myskills li .wt-rightarea{
+		clear: both;
+		float: left;
+		margin-top:10px; 
+	}
+	.wt-updatall{padding: 20px;}
+	.wt-updatall span{padding-top:0; }
+	.wt-yeartag .wt-tag{
+		float: left;
+		width: 100%;
+		margin-top:10px; 
+	}
+	.wt-postedsilder{padding: 0 10px;}
+	.wt-titlemessages .wt-viewprofile{padding: 0;}
+	.wt-btnmenutoggle{top:270px;}
+	.ant-collapse > .ant-collapse-item > .ant-collapse-header{
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+}
+@media (max-width:480px){
+	.ant-collapse > .ant-collapse-item > .ant-collapse-header:before{
+		width: 30px;
+		font-size: 14px;
+	}
+	.wt-ad-pages .ant-collapse > .ant-collapse-item > span{
+		padding-left: 50px;
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		width: 68%;
+	}
+	.wt-ad-pages .ant-collapse > .ant-collapse-item > span img{
+		display: none;
+	}
+	.ant-collapse-content > .ant-collapse-content-box{
+		padding: 30px 10px !important;
+	}
+	.wt-account-details .sj-checkouttable .wt-description{padding: 0;}
+	.wt-uploaded:before, .wt-uploading:before{left: 8px;}
+	.wt-attachmentsholder .wt-tabscontenttitle .wt-rightarea .wt-on-off{
+		clear: both;
+		margin: 0;
+		margin-top:10px;
+		float: none !important;
+	}
+	.wt-likedfreelancers .wt-userlistinghold{padding: 30px 10px;}
+	.tab-savecontent{padding: 0 !important;}
+	.wt-hiredfreelancer .wt-titlewithsearch .wt-formsearch .wt-select select{
+		padding:10px 20px;
+		border-radius: 4px 4px 0 0;
+	}
+	.wt-hiredfreelancer .wt-titlewithsearch .wt-formsearch .wt-select:after{right: 10px;}
+	.wt-hiredfreelancer .wt-titlewithsearch .wt-formsearch .wt-searchgbtn{
+		float: left;
+		width: 100%;
+		position: static;
+		border-radius: 0 0 4px 4px;
+	}
+	.wt-userlisting-breadcrumb li{
+		padding: 0;
+		width: 100%;
+		border: 0 !important;
+	}
+	.wt-historycontentcol li .wt-rightarea .wt-btn{float: left;}
+	.wt-msgbtns a + a{
+		margin: 0;
+		clear: both;
+		float: left;
+		margin-top: 10px;
+	}
+	table.bt tfoot th .bt-content,
+	.wt-offercontent h2{
+		font-size: 20px;
+		font-weight: 600;
+	}
+	table.bt tfoot td .bt-content,
+	table.bt tbody td .bt-content{word-break: break-all;}
+	.wt-btn{padding: 0 30px;}
+	.wt-userlistingvtwo{padding: 0 10px;}
+	.wt-rcvproposala .wt-userlistingvtwo .wt-userlistingcontent .wt-rightarea .wt-hireduserstatus{min-width: 0;}
+	.wt-pagination ul li{margin: 5px 3px;}
+	.wt-tabscontent{padding: 30px 10px;}
+	.wt-projecttitle h3{
+		float: left;
+		width: 100%;
+	}
+	.wt-dashboardsave .wt-proposalsr .wt-proposalsrcontent figure{
+		border: 0;
+		padding: 0 0 20px 0;
+		border-bottom: 1px solid #ddd;
+	}
+}
+@media (max-width:479px){
+	.wt-accordioninnertitle{padding: 10px;}
+	.wt-jobalerts .alert{padding: 20px;}
+}
+@media (max-width:420px){
+	.wt-titlewithsearch.wt-titlewithbtn .wt-formsearch{clear: both;margin-top:20px; }
+	.wt-helpsupportcontent .wt-accordiondetails{padding: 30px 10px;}
+	.wt-attachfile li em{float: left;width: 100%;}
+	.wt-historycontentcol .wt-historydescription{padding: 30px 10px;}
+	.wt-likeunlike span{display: block;margin-bottom:10px; }
+}
